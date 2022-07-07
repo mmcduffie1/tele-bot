@@ -13,7 +13,7 @@ arch = (platform.architecture())
 host = (platform.node())
 cpu = (platform.processor())
 
-updater = Updater("5508129069:AAHJ6YdA2-6OrYJ6b-ie8deGGV9cAgS6EUs",
+updater = Updater("insert telegram bot key here-leave the quotes",
         use_context=True)
 
 
